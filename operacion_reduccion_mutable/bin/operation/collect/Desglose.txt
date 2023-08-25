@@ -1,0 +1,17 @@
+Supplier<ArrayList<String>> provedor = ArrayList::new;
+    
+    BiConsumer<ArrayList<String>, String> acumulador = (lista, cadena) -> lista.add(cadena);
+    BiConsumer<ArrayList<String>, String> acumulador = ArrayList::add;
+    
+    
+    BiConsumer<ArrayList<String> ,ArrayList<String>> combinador = (list1, list2) -> list1.addAll(list2);
+    BiConsumer<ArrayList<String> ,ArrayList<String>> combinador = ArrayList::addAll;
+    
+    collect(ArrayList::new, ArrayList::add, ArrayList::addAll);
+    
+    
+    List<String> nombres = Empleado.empleados()
+                                .stream()
+                                .map(Empleado::getNombre)
+                                .collect(ArrayList::new, ArrayList::add, ArrayList::addAll);
+    

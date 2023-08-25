@@ -1,0 +1,14 @@
+
+Lorem Ipsum Generator. 
+Este generador permite usuario generar el texto por número de palabras párrafos listas o bytes 
+y es capaz de poder  añadir etiquetas HTML para el contenido. 
+Tambuén nos da una breve reseña histórica del origen del Lorem ipsum y la traducción del texto original.
+Lipsum.com. Es uno de los generadores más populares y que proporciona contenido sencillo con pocas opciones. El usuario puede especificar el número de párrafos palabras bytes o listas. En la actualidad hay una serie de simulacros de las banderas disponibles para su descarga. 
+El simulacro de pancartas son en tres colores diferentes y
+ en una gama de diferentes tamaños de banner estándar.
+adhesiontext. Es otra interesante herramienta de texto dinámico que puede generar un
+párrafo de texto ficticio con diferentes conjuntos de caracteres. 
+
+El usuario puede especificar diferentes idiomas y alfabetos como el latín cirílico griego y árabe. 
+Diferentes opciones se pueden utilizar como base para añadir puntuación mayúsculas y minúsculas 
+y otras cosas.
